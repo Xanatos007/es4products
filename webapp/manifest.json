@@ -29,7 +29,7 @@
 		"icons": {
 			"icon": "sap-icon://detail-view",
 			"favIcon": "",
-			"phone": "",
+			"phone": "test",
 			"phone@2": "",
 			"tablet": "",
 			"tablet@2": ""
