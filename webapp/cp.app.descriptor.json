@@ -1,0 +1,10 @@
+[
+	{
+		"id": "hcp://es4products/manifest.json",
+		"_entityType": "PORTAL_SITE_V2_TEMPLATE_APP_CONFIG",
+		"path": "",
+		"name": "Product Catalog",
+		"thumbnail": "sap-icon://product",
+		"preview": ""
+	}
+]
